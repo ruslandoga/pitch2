@@ -24,7 +24,7 @@ We plan to work with Thai government agencies and integrate the system with [Goo
 
 We want to transform Google Maps in Bangkok from [this ...](https://www.google.com/maps/place/Phloen+Chit/@13.7484202,100.5365788,16z/data=!4m8!3m7!1s0x30e29edcfb15ae2b:0xb3f399fbdb9ddf6c!6m1!1v2!8m2!3d13.743044!4d100.548974!16s%2Fm%2F05f879r?entry=ttu)
 
-![bg right:60% contain](https://gist.github.com/assets/67764432/f377b290-df0c-40c6-8535-d6f329d81d01)
+![bg right:60% contain](./img/phloen-chit.png)
 
 ---
 
@@ -32,7 +32,7 @@ We want to transform Google Maps in Bangkok from [this ...](https://www.google.c
 
 ... to something more like [this!](https://www.google.com/maps/place/Shibuya+Station/@35.6580339,139.7016358,17z/data=!3m1!5s0x60188b57f546295f:0x486cece41a7b21b0!4m8!3m7!1s0x60188b563b00109f:0x337328def1e2ab26!6m1!1v2!8m2!3d35.6580339!4d139.7016358!16zL20vMDIya3dq?entry=ttu)
 
-![bg right:60% contain](https://gist.github.com/assets/67764432/0a38d302-3108-43be-8bed-d8a430334f00)
+![bg right:60% contain](./img/shibuya.png)
 
 ---
 
