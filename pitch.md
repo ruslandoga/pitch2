@@ -10,9 +10,9 @@ by Ruslan Doga and Rail Akhmetov
 
 # Executive Summary
 
-Our goal is to improve public transport information in Thailand. We will create a [GTFS](https://gtfs.org) data management platform and a GTFS and [GTFS-RT](https://gtfs.org/realtime/reference/) serving platform.
+Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like [GTFS](https://gtfs.org) and [GTFS-RT](https://gtfs.org/realtime/reference/), similar to those implemented in Japan, Taiwan, and Singapore. Initially focusing on the BTS and MRT systems, we aim to extend these improvements to the entire Thai public transport network.
 
-We plan to work with Thai government agencies and integrate the system with [Google Maps](https://www.google.com/maps/about) through the [Google Transit](https://developers.google.com/transit) program. This will provide accurate and easy-to-access public transport information, making life better for residents and tourists.
+We plan to collaborate with Thai government agencies to integrate this system across all widely-used mapping applications, including Google Maps, Apple Maps, and OpenStreetMap. This integration will not only improve the convenience and efficiency of travel for tourists and residents alike but also reinforce Thailand's position as a leader in tourism and urban planning.
 
 ---
 
@@ -111,20 +111,20 @@ We plan to start a company with the mission to enhance public transport informat
 
 # Mission
 
-To provide accurate and accessible public transport information in Thailand through Google Maps integration, making it easier for people to use and rely on public transportation.
+To provide accurate and accessible public transport information in Thailand through integration with all popular map apps, making it easier for people to use and rely on public transportation.
 
 ---
 
 # Vision
 
-A future where Google Maps provides passengers with accurate, real-time public transport information, including train locations, timetables, fares, and delay updates. This will ensure that the online information matches the real-world excellence of the BTS system!
+A future where all map applications provides passengers with accurate, real-time public transport information, including train locations, timetables, fares, and delay updates. This will ensure that the online information matches the real-world excellence of the BTS system!
 
 ---
 
 # Team
 
-- Ruslan Doga: Co-Founder — responsible for overall product strategy and development. Background in Open-Source Software development for [Plausible Insights,](https://plausible.io) worked on Smart City project in Dornbirn, Austria.
-- Rail Akhmetov: Co-Founder — responsible for identifying new business opportunities, partnerships, and strategic alliances.
+- Ruslan Doga: Co-Founder & CEO — responsible for overall product strategy and development. Background in Open-Source Software development for [Plausible Insights,](https://plausible.io) worked on Smart City project in Dornbirn, Austria.
+- Rail Akhmetov: Co-Founder & CCO — responsible for commercial operations and strategic alliances. Background in investments at $30b conglomerate with assets across the metals and mining, telecoms, technology and internet sectors.
 
 ---
 
@@ -138,7 +138,7 @@ A future where Google Maps provides passengers with accurate, real-time public t
 
 # GTFS Data Management Platform
 
-A simple and user-friendly platform tailored for Thai transit agencies to provide accurate public transport information for Google Maps.
+A simple and user-friendly platform tailored for Thai transit agencies to provide accurate public transport information for all popular map apps. Example of Google Maps:
 
 1. Government officials use a website to enter and update their transport information.
 1. The platform converts this data into a [GTFS Schedule archive.](https://gtfs.org/schedule/reference/)
@@ -149,7 +149,7 @@ A simple and user-friendly platform tailored for Thai transit agencies to provid
 
 # GTFS-RT Data Collection and Serving Platform
 
-A platform integrated with public transport operators to collect and provide real-time location data for Google Maps.
+A platform integrated with public transport operators to collect and provide real-time location data for all popular map apps. Example of Google Maps:
 
 1. Real-time data, such as raw GPS data from BTS trains, is collected.
 1. The platform transforms this data into a [GTFS-RT feed.](https://gtfs.org/realtime/reference/)
@@ -172,15 +172,15 @@ A potential Android app designed to collect real-time location data from buses t
 
 # Innovation: Accurate Timetables
 
-Our approach provides accurate, up-to-date timetables for Google Maps in Bangkok.
+Our approach provides accurate, up-to-date timetables for map apps in Bangkok.
 
-Currently, Google Maps either shows BTS train departures as "every 6 min" (web) or interpolates them (iOS, Android), which is misleading. We ensure precise schedule information, improving user experience.
+Currently, Google Maps (and other popular map apps) either shows BTS train departures as "every 6 min" (web) or interpolates them (iOS, Android), which is misleading. We ensure precise schedule information, improving user experience.
 
 ---
 
 # Innovation: Real-Time Data
 
-Currently, Google Maps does not display real-time train locations, nor does it provide updates on delays or schedule accuracy. Our approach integrates real-time data for buses and trains, filling this gap with accurate, live information. This ensures users have up-to-date details on vehicle locations and any schedule changes.
+Currently, Google Maps (and other popular map apps) does not display real-time train locations, nor does it provide updates on delays or schedule accuracy. Our approach integrates real-time data for buses and trains, filling this gap with accurate, live information. This ensures users have up-to-date details on vehicle locations and any schedule changes.
 
 ---
 
@@ -188,7 +188,7 @@ Currently, Google Maps does not display real-time train locations, nor does it p
 
 - **User-Friendly Tools:** An intuitive website for officials and a mobile app for bus drivers to efficiently collect and manage GTFS data.
 
-- **Seamless Google Maps Integration:** Ensures all data integrates smoothly with Google Maps, enhancing user experience.
+- **Seamless Map Apps Integration:** Ensures all data integrates smoothly with all popular map apps (Google Maps, Apple Maps, OpenStreetMap), enhancing user experience.
 
 ---
 
@@ -216,7 +216,7 @@ While there are existing transport information providers, this project's focus o
 
 Increasing urbanization and the need for sustainable transportation solutions are driving the demand for accurate and accessible transport information. Our platform aligns with these trends, offering timely and relevant solutions.
 
-Also, Japan, Taiwan, and Singapore (countries that implemented GTFS-RT) seem like a good company.
+Additionally, Japan, Taiwan, and Singapore, countries that have successfully implemented GTFS-RT, serve as important models for our approach.
 
 ---
 
@@ -234,7 +234,7 @@ We will engage government agencies through direct outreach, showcasing the benef
 
 # Financial Plan
 
-Our platform would be completely self-funded. We have enough experience in this area to know what corners to cut, what needs building, and what is superfluous.
+Our platform will be entirely self-funded. We possess all the necessary resources and expertise to execute this project successfully without the need for external investors. This independence allows us to prioritize developments and make strategic decisions promptly and effectively.
 
 ---
 
@@ -246,31 +246,32 @@ Potential exit opportunities include acquisition by a larger transport technolog
 
 # Funds Required
 
-I work for Pocari Sweat.
+We will self-fund this project, ensuring we have all necessary resources for development, deployment, and initial operations. Our financial independence allows for complete control over the project timeline and decision-making, eliminating the need for external funding. This approach speeds up deployment and provides flexibility to adapt swiftly to project needs.
 
 ---
 
 # Revenue Model
 
-Initially, our project would be non-profit, focusing on public service. In the long term, we will offer our platform as a paid service to other countries and commercial transport operators.
+We will initiate our project with a free pilot program, focusing on delivering measurable results and showcasing the capabilities of our platform. Once established, our main revenue stream will transition to a licensing fee model. Our primary monetization strategy will involve offering our comprehensive data services to large businesses, including transport companies and FMCG industries. Additionally, we plan to expand our revenue by selling the platform to other countries.
 
 ---
 
 # Growth Strategy
 
-- **Phase 1:** Develop core platform, demonstrate real-time demo, and achieve Google Maps integration in a pilot city.
-- **Phase 2:** Expand to other Thai cities and collaborate with the Ministry of Transport.
-- **Phase 3:** Offer the platform as a paid service to other ASEAN countries.
+- **Phase 1:** Develop core platform, demonstrate real-time demo, and achieve Google Maps integration in Bangkok.
+- **Phase 2:** Expand operations to other Thai cities and collaborate with the Ministry of Transport. Additionally, achieve integration with other popular mapping applications.
+- **Phase 3:** Offer the platform as a paid service to other ASEAN countries and implement a business-to-business (B2B) strategy, selling our comprehensive data services to large enterprises, including transport companies and FMCG industries.
 
 ---
 
 # Why Thailand?
 
-We chose Thailand due to our appreciation for Bangkok's public transport and the opportunity to enhance its digital component.
+We chose Thailand because it is a leading tourist destination, where robust public transport is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions. Our admiration for Bangkok's BTS system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
 
 ---
 
 # Thailand’s Benefit
 
-- **Citizen Benefits:** Improved daily travel decisions and increased public transport use.
-- **Tourism Boost:** Enhanced tourist experience, easier navigation, and improved Thailand's image as a modern destination.
+- **Citizen Benefits:** Enhanced public transport reliability and information will lead to better travel decisions, increased usage, and potentially reduced road congestion and improved air quality.
+- **Tourism Boost:** Accurate, real-time transit information simplifies navigation for tourists, enriching their experience and bolstering Thailand's image as a modern destination.
+- **Government and Local Business Benefits:** Improved transport systems can aid the government in urban planning and traffic management, while local businesses benefit from increased accessibility and customer traffic, driving economic growth.
