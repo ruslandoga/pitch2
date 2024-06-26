@@ -55,7 +55,7 @@ General Transit Feed Specification (GTFS) is a standardized format for public tr
 
 # Routes and Stops
 
-![bg right:42% contain](./img/ios-shibuya-departures-all.PNG)
+![bg right:40% contain](./img/ios-shibuya-departures-all.PNG)
 
 Information on where to catch buses or trains.
 
@@ -63,7 +63,7 @@ Information on where to catch buses or trains.
 
 # Schedules and Frequencies
 
-![bg right:42% contain](./img/ios-shibuya-departures-detailed.PNG)
+![bg right:40% contain](./img/ios-shibuya-departures-detailed.PNG)
 
 Clear timetables to help plan trips.
 
@@ -71,7 +71,7 @@ Clear timetables to help plan trips.
 
 # Fares
 
-![bg right:42% contain](./img/ios-shibuya-meguro-route.PNG)
+![bg right:40% contain](./img/ios-shibuya-meguro-route.PNG)
 
 Upfront details on journey costs.
 
@@ -95,7 +95,7 @@ GTFS Realtime offers live updates on public transit, ensuring riders are always 
 
 # Vehicle Locations
 
-![bg right:42% contain](./img/ios-shibuya-real-time.PNG)
+![bg right:40% contain](./img/ios-shibuya-real-time.PNG)
 
 GTFS-RT matches the scheduled time with current location and shows its position together with the estimated arrival time.
 
@@ -103,7 +103,7 @@ GTFS-RT matches the scheduled time with current location and shows its position 
 
 # Arrival Times
 
-![bg right:42% contain](./img/ios-shibuya-departures-detailed-past.PNG)
+![bg right:40% contain](./img/ios-shibuya-departures-detailed-past.PNG)
 
 If GTFS-RT reports that the train is running late Google Maps clearly shows that in the UI.
 
@@ -114,13 +114,26 @@ If GTFS-RT reports that the train is running late Google Maps clearly shows that
 
 # Google Maps in Bangkok
 
-Right now it good but can better.
+Right now it good but can better. Taking BTS as example, some of GTFS data is already present like the station locations, but timetables and fares are missing. GTFS-RT data is missing completely.
 
 ---
 
-Google Maps attempts to interpolate BTS timetable from [bts.co.th.](https://www.bts.co.th/eng/service/timetable.html)
+<!-- class: invert -->
+<!-- backgroundColor: #191919-->
+
+# Inaccurate Timetables
+
+Google Maps on iOS and Android attempts to interpolate the timetable from ["every 6 minutes"](#tldr)
 
 ![bg right:40% contain](./img/ios-phloen-chit-fake-departures.png)
+
+---
+
+# Fake Real-Time
+
+Real-time position is also interpolated. A quick way to identify it is to notice that the green "On Time" label is replaced with a gray "Scheduled".
+
+![bg right:40% contain](./img/ios-phloen-chit-fake-real-time.PNG)
 
 ---
 
