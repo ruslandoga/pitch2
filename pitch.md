@@ -10,9 +10,9 @@ by Ruslan Doga and Rail Akhmetov
 
 # Executive Summary
 
-Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like [GTFS](https://gtfs.org) and [GTFS-RT](https://gtfs.org/realtime), similar to those implemented in Japan, Taiwan, and Singapore. Initially focusing on the BTS and MRT systems, we aim to extend these improvements to the entire Thai public transport network.
+Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like [GTFS](https://gtfs.org) and [GTFS-RT,](https://gtfs.org/realtime) similar to those implemented in Japan, Taiwan, and Singapore. Initially focusing on the BTS and MRT systems, we aim to extend these improvements to the entire Thai public transport network.
 
-We plan to collaborate with Thai government agencies to integrate this system across all widely-used mapping applications, including Google Maps, Apple Maps, and OpenStreetMap. This integration will not only improve the convenience and efficiency of travel for tourists and residents alike but also reinforce Thailand's position as a leader in tourism and urban planning.
+We plan to collaborate with Thai government agencies to integrate this system across all widely-used mapping applications, including Google Maps. This integration will not only improve the convenience and efficiency of travel for tourists and residents alike but also reinforce Thailand's position as a leader in tourism and urban planning.
 
 ---
 
