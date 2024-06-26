@@ -11,8 +11,8 @@ Startup Sectors: TravelTech, PropertyTech/ UrbanTech, GovTech/ EdTech
 Targeted Industries: Transportation and Logistics industry, Digital Industry  
 Startup Stage: Idea  
 4. Business or activity plan in Thailand  
-Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like GTFS and GTFS-RT, as implemented in Japan, Taiwan, and Singapore. We will initially focus on the BTS and MRT systems and then extend these improvements to the entire Thai public transport network.  
-We plan to collaborate with Thai government agencies to integrate this system with all widely-used mapping applications, including Google Maps, Apple Maps, and OpenStreetMap. This integration will improve travel convenience and efficiency for tourists and residents, reinforcing Thailand's position as a leader in tourism and urban planning.  
+Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like GTFS and GTFS-RT, as implemented in Japan, Taiwan, and Singapore. We will initially focus on the BTS and MRT systems and then extend these improvements to the entire Thai public transport network.
+We plan to collaborate with Thai government agencies to integrate this system with Google Maps. This integration will improve travel convenience and efficiency for tourists and residents, reinforcing Thailand's position as a leader in tourism and urban planning.  
 5. Business or products or services description  
 We provide platforms to enhance public transport information in Thailand:  
 GTFS Data Management Platform:  
