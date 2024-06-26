@@ -177,12 +177,11 @@ A future where the quality of the online information matches the real-world exce
 
 # GTFS Data Management Platform
 
-A simple and user-friendly platform tailored for Thai transit agencies to provide accurate public transport information for all popular map apps. Example of Google Maps:
+A simple and user-friendly platform tailored for Thai transit agencies to develop and maintain accurate public transport information as GTFS.
 
-1. Government officials use a website to enter and update their transport information.
-1. The platform converts this data into a [GTFS Schedule archive.](https://gtfs.org/schedule/reference/)
-1. [Google Transit](https://developers.google.com/transit) pulls the GTFS Schedule archive.
-1. The schedule information is then displayed on [Google Maps](https://www.google.com/maps/about) as static data, including timetables, ticket fares, and more.
+1. Government officials use a website to enter or update their transport information.
+2. The platform converts this data into a [GTFS Schedule.](https://gtfs.org/schedule/reference/)
+3. Later this GTFS Schedule can be submitted to [Google Transit.](https://developers.google.com/transit) If it is accepted, the updated information gets displayed on [Google Maps](https://www.google.com/maps/about) as static data. That includes routes, timetables, ticket fares, and more.
 
 ---
 
