@@ -97,7 +97,7 @@ GTFS Realtime offers live updates on public transit, ensuring riders are always 
 
 ![bg right:40% contain](./img/ios-shibuya-real-time.PNG)
 
-GTFS-RT matches the scheduled time with current location and shows its position together with the estimated arrival time.
+GTFS-RT enhances schedules with real-time vehicle locations. It shows where the vehicle is and its estimated arrival time.
 
 ---
 
@@ -105,7 +105,7 @@ GTFS-RT matches the scheduled time with current location and shows its position 
 
 ![bg right:40% contain](./img/ios-shibuya-departures-detailed-past.PNG)
 
-If GTFS-RT reports that the train is running late Google Maps clearly shows that in the UI.
+If the vehicle is late, GTFS-RT reports the delay. Google Maps clearly shows this in the user interface.
 
 ---
 
@@ -114,26 +114,26 @@ If GTFS-RT reports that the train is running late Google Maps clearly shows that
 
 # Google Maps in Bangkok
 
-Right now it good but can better. Taking BTS as example, some of GTFS data is already present like the station locations, but timetables and fares are missing. GTFS-RT data is missing completely.
+Google Maps in Bangkok are useful but have room for improvement. For example, the BTS has some GTFS data like station locations. However, timetables and fares are not yet included. Additionally, GTFS-RT data is currently missing.
 
 ---
 
 <!-- class: invert -->
 <!-- backgroundColor: #191919-->
 
-# Inaccurate Timetables
-
-Google Maps on iOS and Android attempts to interpolate the timetable from ["every 6 minutes"](#tldr)
+# Timetable Issues
 
 ![bg right:40% contain](./img/ios-phloen-chit-fake-departures.png)
 
+Google Maps on iOS and Android tries to estimate the timetable from [rules](https://www.bts.co.th/eng/service/timetable.html) like ["every 6 minutes,"](#tldr) which can be misleading.
+
 ---
 
-# Fake Real-Time
-
-Real-time position is also interpolated. A quick way to identify it is to notice that the green "On Time" label is replaced with a gray "Scheduled".
+# Interpolated Location
 
 ![bg right:40% contain](./img/ios-phloen-chit-fake-real-time.PNG)
+
+Current train location is interpolated based on time. A quick way to identify it is to notice that the green "On Time" label is replaced with a gray "Scheduled".
 
 ---
 
