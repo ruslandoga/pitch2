@@ -209,9 +209,9 @@ A potential Android app designed to collect real-time location data from buses w
 
 # Innovation: Accurate Timetables
 
-Our approach provides accurate, up-to-date timetables for map apps in Bangkok.
+Our approach delivers precise, up-to-date public transport timetables in Thailand using the widely recognized GTFS Schedule standard.
 
-Currently, Google Maps (and other popular map apps) either shows BTS train departures as "every 6 min" (web) or interpolates them (iOS, Android), which is misleading. We ensure precise schedule information, improving user experience.
+Currently, Google Maps shows BTS train departures as ["every 6 minutes"](https://www.google.com/maps/place/Phloen+Chit/@13.7484202,100.5365788,16z/data=!4m8!3m7!1s0x30e29edcfb15ae2b:0xb3f399fbdb9ddf6c!6m1!1v2!8m2!3d13.743044!4d100.548974!16s%2Fm%2F05f879r?entry=ttu) or estimates them on iOS and Android, which can lead to inaccuracies. This indicates that the GTFS data provided is incomplete and could be significantly improved.
 
 ---
 
@@ -229,17 +229,24 @@ Currently, Google Maps (and other popular map apps) does not display real-time t
 
 ---
 
+# Impacted Industries
+
+Our project impacts two key industries, [Public Transport](#impacted-industry-public-transport) and [Tourism.](#impatced-industry-tourism)
+
+---
+
 # Impacted Industry: Public Transport
 
-Our project significantly impacts two key industries:
+- **Improved Efficiency:** By providing accurate and real-time data, we enhance the efficiency and reliability of public transport systems.
+- **User Satisfaction:** Passengers benefit from reliable information on schedules, real-time locations, and delays, leading to increased satisfaction and usage of public transport.
 
-- - Improved Efficiency: By providing accurate and real-time data, we enhance the efficiency and reliability of public transport systems.
-  - User Satisfaction: Passengers benefit from reliable information on schedules, real-time locations, and delays, leading to increased satisfaction and usage of public transport.
-  - Operational Insights: Transport authorities can gain valuable insights from data analytics to optimize routes, schedules, and resource allocation.
-- Tourism
-  - Enhanced Experience: Tourists can easily navigate the public transport system with accurate, real-time information, making their travel experience smoother and more enjoyable.
-  - Increased Accessibility: Better public transport information makes tourist attractions more accessible, encouraging more exploration and boosting local businesses.
-  - Positive Perception: Reliable transport information improves the overall perception of Thailand as a modern, tourist-friendly destination.
+---
+
+# Impatced Industry: Tourism
+
+- **Enhanced Experience:** Tourists can easily navigate the public transport system with accurate, real-time information, making their travel experience smoother and more enjoyable.
+- **Increased Accessibility:** Better public transport information makes tourist attractions more accessible, encouraging more exploration and boosting local businesses.
+- **Positive Perception:** Reliable transport information improves the overall perception of Thailand as a modern, tourist-friendly destination.
 
 ---
 
