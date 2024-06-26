@@ -24,27 +24,25 @@ We provide platforms to enhance public transport information in Thailand:
 - (Optional) Mobile App for Bus Drivers t collects real-time GPS data from buses without built-in GPS and sends it to the GTFS-RT platform to improve public vehicle location accuracy on Google Maps in rural areas.
 
 ### 6. Business Model: Description of the idea and business model
-We will initiate our project with a free pilot program, focusing on delivering measurable results and showcasing the capabilities of our platform. Once established, our main revenue stream will transition to a licensing fee model. Our primary monetization strategy will involve offering our comprehensive data services to large businesses, including transport companies and FMCG industries. Additionally, we plan to expand our revenue by selling the platform to other countries.  
+We will initiate our project with a free pilot program, focusing on delivering measurable results and showcasing the capabilities of our platform. Once established, our main revenue stream will transition to a licensing fee model. Additionally, we plan to expand our revenue by selling the platform to other countries.
 
 ### 7. Mission: Description of your organization’s mission  
-To provide accurate and accessible public transport information in Thailand through integration with all popular map apps, making it easier for people to use and rely on public transportation.  
+To provide accurate and accessible public transport information in Thailand through integration with all popular map apps, making it easier for people to use and rely on public transportation.
 
 ### 8. Vision: Description of your organization’s vision  
-A future where all map applications provides passengers with accurate, real-time public transport information, including train locations, timetables, fares, and delay updates. This will ensure that the online information matches the real-world excellence of the BTS system!  
+We envision a future where passengers are provided with accurate, real-time public transport information, including vehicle locations, timetables, fares, and delay updates.
+A future where the quality of the online information matches the real-world excellence of the BTS system!
 
 ### 9. Target market: Description of your target customers or clients  
-Our initial target customers are Thai government agencies, with plans to expand to other Southeast Asian countries. We will promote our platform through strategic partnerships and demonstrations to showcase its capabilities and benefits.  
+Our initial target customers are Thai government agencies, with plans to expand to other Southeast Asian countries. We will promote our platform through strategic partnerships and demonstrations to showcase its capabilities and benefits.
 
 ### 10. Growth Strategy: Please explain your growth objectives and how you intend to develop your startup business  
-Phase 1: Develop core platform, demonstrate real-time demo, and achieve Google Maps integration in Bangkok.  
-Phase 2: Expand operations to other Thai cities and collaborate with the Ministry of Transport. Additionally, achieve integration with other popular mapping applications.  
-Phase 3: Offer the platform as a paid service to other ASEAN countries and implement a business-to-business (B2B) strategy, selling our comprehensive data services to large enterprises, including transport companies and FMCG industries.  
+Phase 1: Develop core platform, demonstrate real-time demo, and achieve a more complete Google Maps integration in Bangkok.
+Phase 2: Expand operations to other Thai cities and collaborate with the Ministry of Transport. Additionally, provide support for integration with other popular mapping applications.
+Phase 3: Offer the platform as a paid service to other ASEAN countries.
 
 ### 11. Why is your startup innovative? Please explain  
-- Accurate Timetables: Provides precise, current schedules for map apps.  
-- Real-Time Data: Offers live updates on bus and train locations and delays.  
-- User-Friendly Tools: Features an intuitive website for officials and a mobile app for bus drivers.  
-- Seamless Integration: Smoothly integrates with popular map apps, enhancing user experience.  
+Accurate Timetables: Provides precise, current schedules. Real-Time Data: Offers live updates on bus and train locations and delays. User-Friendly Tools: Features an intuitive website for officials to efficiently collect and manage GTFS data. GTFS Data Availability: Ensures it can integrate with any platform that supports this standard. Optimized for Google Maps (due to its widespread use): Ensures seamless integration with Google Maps.
 
 ### 12. Key persons in your organization/team  
 Name Title  
@@ -56,9 +54,8 @@ Total number of team members 2
 self-funded  
 
 ### 14. Why did you choose Thailand as your destination? Please explain  
-We chose Thailand for its status as a top tourist destination, where reliable public transport is crucial for visitors. The rapid growth of Thailand, particularly Bangkok, increases the need for efficient transit solutions. Our admiration for Bangkok's BTS system and personal fondness for the country drive us to enhance its digital transport infrastructure, benefiting both tourists and residents.  
+We chose Thailand because it is a leading tourist destination and robust public transport information is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions. Our admiration for Bangkok's BTS system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
 
 ### 15. Please explain how your business would benefit Thailand? Please explain  
-- Citizen Benefits: Better travel info increases usage, reduces congestion, and improves air quality.  
-- Tourism Boost: Real-time transit info enhances tourist navigation and Thailand's image.  
-- Government and Business Benefits: Improved transport aids planning, traffic management, and local business access.  
+- Citizen Benefits: It improves the daily lives of residents through more informed travel decisions and encourages greater public transport use.
+- Tourism Boost: Enhances the experience for tourists, making navigation easier and boosting Thailand's image as a modern, user-friendly destination.
