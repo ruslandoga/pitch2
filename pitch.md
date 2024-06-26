@@ -114,7 +114,7 @@ If the vehicle is late, GTFS-RT reports the delay. Google Maps clearly shows thi
 
 # Google Maps in Bangkok
 
-Google Maps in Bangkok are useful but have room for improvement. For example, the BTS has some GTFS data like station locations. However, timetables and fares are not yet included. Additionally, GTFS-RT data is currently missing.
+Google Maps in Bangkok are useful but have room for improvement. For example, the BTS has some GTFS data like station locations. However, timetables are not yet included. Additionally, GTFS-RT data appears to be largely missing.
 
 ---
 
@@ -318,7 +318,9 @@ We will initiate our project with a free pilot program, focusing on delivering m
 
 # Why Thailand?
 
-We chose Thailand because it is a leading tourist destination, where robust public transport is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions. Our admiration for Bangkok's BTS system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
+We chose Thailand because it is a leading tourist destination and robust public transport information is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions.
+
+Our admiration for Bangkok's BTS system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
 
 ---
 
