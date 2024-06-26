@@ -162,7 +162,7 @@ A future where the quality of the online information matches the real-world exce
 
 # Team
 
-- Ruslan Doga: Co-Founder & CEO — responsible for overall product strategy and development. Background in Open-Source Software development for [Plausible Insights,](https://plausible.io) worked on Smart City project in Dornbirn, Austria.
+- Ruslan Doga: Co-Founder & CEO — responsible for overall product strategy and development. Background in Open-Source Software development for [plausible.io.](https://plausible.io)
 - Rail Akhmetov: Co-Founder & CCO — responsible for commercial operations and strategic alliances. Background in investments at $30b conglomerate with assets across the metals and mining, telecoms, technology and internet sectors.
 
 ---
