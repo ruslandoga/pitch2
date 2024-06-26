@@ -3,7 +3,7 @@ APPLICATION FOR QUALIFICATION ENDORSEMENT FOR SMART VISA “S”
 Part E : Business plan or activities in Thailand
 
 1. Startup Name  
-Thaime
+KindlyGTFS or KindlyGTFO, your choice
 2. Slogan (If any)  
 Passionate About Thailand, Driven by Transit
 3. Please choose the startup sectors/ targeted industries /startup stage most relevant to your activities  
