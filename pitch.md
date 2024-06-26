@@ -165,6 +165,22 @@ We envision a future where passengers have accurate, real-time public transport 
 
 ---
 
+<!-- class: invert -->
+<!-- backgroundColor: #191919-->
+
+# Collaboration with Thai Government Agencies
+
+For complete success it cant be just us, we need you.
+
+We plan to work closely with Thai government agencies to integrate our system with their existing infrastructure, ensuring accurate and up-to-date public transport information.
+
+This is important since for the most part the data provider is you, Thailand, and we are just the middle men between your highness and Google Maps. Also it would be you who would be applying for google transit program :)
+
+---
+
+<!-- class: default -->
+<!-- backgroundColor: default -->
+
 # Products
 
 - [GTFS Data Management Platform](#gtfs-data-management-platform)
@@ -205,6 +221,22 @@ A potential Android app designed to collect real-time location data from buses w
 
 ---
 
+<!-- class: invert -->
+<!-- backgroundColor: #191919-->
+
+# Why Google Maps?
+
+With and help of Thai government and through the Google Transit program, we will integrate our platform with Google Maps, providing:
+
+Seamless Access: Easy access to public transport information directly on Google Maps.
+Enhanced User Experience: Real-time updates and accurate schedule information to improve travel planning for users.
+Increased Visibility: Greater visibility for public transport options, encouraging more people to use them.
+
+---
+
+<!-- class: default -->
+<!-- backgroundColor: default -->
+
 # Innovation: Accurate Timetables
 
 Our approach delivers precise, up-to-date public transport timetables using the widely recognized GTFS Schedule standard.
@@ -235,7 +267,7 @@ By implementing GTFS-RT, we aim to fill this gap, providing accurate, live infor
 
 # Impacted Industries
 
-Our project impacts two key industries, [public transport](#impacted-industry-public-transport) and [tourism.](#impatced-industry-tourism)
+This project impacts [the public transport](#impacted-industry-public-transport) and [tourism](#impatced-industry-tourism) industries.
 
 ---
 
@@ -318,6 +350,13 @@ We will initiate our project with a free pilot program, focusing on delivering m
 We chose Thailand because it is a leading tourist destination and robust public transport information is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions.
 
 Our admiration for Bangkok's BTS Skytrain system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
+
+---
+
+Benefits for Residents and Tourists
+Accurate Information: Reliable data on routes, schedules, and fares.
+Real-Time Updates: Live tracking of vehicle locations and arrival times.
+Improved Travel Planning: Better decision-making with up-to-date information, reducing wait times and missed connections.
 
 ---
 
