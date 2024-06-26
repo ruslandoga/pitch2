@@ -225,7 +225,9 @@ Currently, Google Maps (and other popular map apps) does not display real-time t
 
 - **User-Friendly Tools:** An intuitive website for officials and a mobile app for bus drivers to efficiently collect and manage GTFS data.
 
-- **Seamless Map Apps Integration:** Ensures all data integrates smoothly with all popular map apps (Google Maps, Apple Maps, OpenStreetMap), enhancing user experience.
+- **GTFS Data Availability:** We will make GTFS data easily accessible, ensuring it can integrate with any platform that supports this standard.
+
+- **Optimized for Google Maps:** We will take extra steps to ensure seamless integration with Google Maps due to its widespread use.
 
 ---
 
