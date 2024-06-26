@@ -296,21 +296,23 @@ Potential exit opportunities include acquisition by a larger transport technolog
 
 # Funds Required
 
-We will self-fund this project, ensuring we have all necessary resources for development, deployment, and initial operations. Our financial independence allows for complete control over the project timeline and decision-making, eliminating the need for external funding. This approach speeds up deployment and provides flexibility to adapt swiftly to project needs.
+We will self-fund this project, ensuring we have all necessary resources for development, deployment, and initial operations.
+
+Our financial independence allows for complete control over the project timeline and decision-making, eliminating the need for external funding. This approach speeds up deployment and provides flexibility to adapt swiftly to project needs.
 
 ---
 
 # Revenue Model
 
-We will initiate our project with a free pilot program, focusing on delivering measurable results and showcasing the capabilities of our platform. Once established, our main revenue stream will transition to a licensing fee model. Our primary monetization strategy will involve offering our comprehensive data services to large businesses, including transport companies and FMCG industries. Additionally, we plan to expand our revenue by selling the platform to other countries.
+We will initiate our project with a free pilot program, focusing on delivering measurable results and showcasing the capabilities of our platform. Once established, our main revenue stream will transition to a licensing fee model. Additionally, we plan to expand our revenue by selling the platform to other countries.
 
 ---
 
 # Growth Strategy
 
-- **Phase 1:** Develop core platform, demonstrate real-time demo, and achieve Google Maps integration in Bangkok.
-- **Phase 2:** Expand operations to other Thai cities and collaborate with the Ministry of Transport. Additionally, achieve integration with other popular mapping applications.
-- **Phase 3:** Offer the platform as a paid service to other ASEAN countries and implement a business-to-business (B2B) strategy, selling our comprehensive data services to large enterprises, including transport companies and FMCG industries.
+- **Phase 1:** Develop core platform, demonstrate real-time demo, and achieve a more complete Google Maps integration in Bangkok.
+- **Phase 2:** Expand operations to other Thai cities and collaborate with the Ministry of Transport. Additionally, provide support for integration with other popular mapping applications.
+- **Phase 3:** Offer the platform as a paid service to other ASEAN countries.
 
 ---
 
