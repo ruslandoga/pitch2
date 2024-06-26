@@ -1,29 +1,33 @@
-APPLICATION FOR QUALIFICATION ENDORSEMENT FOR SMART VISA “S”
+## APPLICATION FOR QUALIFICATION ENDORSEMENT FOR SMART VISA “S”
 
-Part E : Business plan or activities in Thailand
+## Part E : Business plan or activities in Thailand
 
-1. Startup Name  
-KindlyGTFS or kindly GTFO, your choice (Ruslan suggests this as the full name)
-2. Slogan (If any)  
+### Startup Name  
+
+KindlyGTFS
+
+### Slogan (If any)  
+
 Passionate About Thailand, Driven by Transit (Ruslan won't fill that field. Who says? Ruslan says.)
-3. Please choose the startup sectors/ targeted industries /startup stage most relevant to your activities  
+
+### Please choose the startup sectors/ targeted industries /startup stage most relevant to your activities  
+
 Startup Sectors: TravelTech, PropertyTech/ UrbanTech, GovTech/ EdTech  
 Targeted Industries: Transportation and Logistics industry, Digital Industry  
-Startup Stage: Idea  
-4. Business or activity plan in Thailand  
+Startup Stage: Idea
+
+### Business or activity plan in Thailand  
 Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like GTFS and GTFS-RT, as implemented in Japan, Taiwan, and Singapore. We will initially focus on the BTS and MRT systems and then extend these improvements to the entire Thai public transport network.
 We plan to collaborate with Thai government agencies to integrate this system with Google Maps. This integration will improve travel convenience and efficiency for tourists and residents, reinforcing Thailand's position as a leader in tourism and urban planning.  
-5. Business or products or services description  
+
+### Business or products or services description  
+
 We provide platforms to enhance public transport information in Thailand:  
-GTFS Data Management Platform:  
-- Enables Thai transit agencies to update transport data for popular map apps like Google Maps.  
-- Converts data into a GTFS Schedule archive for static information display.  
-GTFS-RT Data Collection and Serving Platform:  
-- Collects and provides real-time location data from public transport operators.  
-- Transforms data into a GTFS-RT feed for dynamic information display on Google Maps.  
-Optional Mobile App for Bus Drivers:  
-- Collects real-time GPS data from buses without built-in GPS to improve location accuracy on Google Maps.  
-6. Business Model: Description of the idea and business model  
+- GTFS Data Management Platform which enables Thai transit agencies to easily update transport data and converts that data into a GTFS Schedule for static information display on Google Maps; 
+- GTFS-RT Data Collection and Serving Platform which collects real-time location data from public transport operators and converts that data into a GTFS-RT feed for dynamic information display on Google Maps;
+- (Optional) Mobile App for Bus Drivers t collects real-time GPS data from buses without built-in GPS and sends it to the GTFS-RT platform to improve public vehicle location accuracy on Google Maps in rural areas.
+
+### Business Model: Description of the idea and business model
 We will initiate our project with a free pilot program, focusing on delivering measurable results and showcasing the capabilities of our platform. Once established, our main revenue stream will transition to a licensing fee model. Our primary monetization strategy will involve offering our comprehensive data services to large businesses, including transport companies and FMCG industries. Additionally, we plan to expand our revenue by selling the platform to other countries.  
 7. Mission: Description of your organization’s mission  
 To provide accurate and accessible public transport information in Thailand through integration with all popular map apps, making it easier for people to use and rely on public transportation.  
