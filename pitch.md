@@ -179,20 +179,19 @@ A future where the quality of the online information matches the real-world exce
 
 A simple and user-friendly platform tailored for Thai transit agencies to develop and maintain accurate public transport information as GTFS.
 
-1. Government officials use a website to enter or update their transport information.
-2. The platform converts this data into a [GTFS Schedule.](https://gtfs.org/schedule/reference/)
-3. Later this GTFS Schedule can be submitted to [Google Transit.](https://developers.google.com/transit) If it is accepted, the updated information gets displayed on [Google Maps](https://www.google.com/maps/about) as static data. That includes routes, timetables, ticket fares, and more.
+1. **Data Entry and Updates:** Government officials use our website to enter or update their transport information with ease.
+2. **Data Conversion:** The platform converts this data into a [GTFS Schedule.](https://gtfs.org/schedule/reference/)
+3. **Submission to Google Transit:** This GTFS Schedule can then be submitted to [Google Transit.](https://developers.google.com/transit) Once accepted, the updated information is displayed on Google Maps as static data, including routes, timetables, ticket fares, and more.
 
 ---
 
 # GTFS-RT Data Collection and Serving Platform
 
-A platform integrated with public transport operators to collect and provide real-time location data for all popular map apps. Example of Google Maps:
+A platform integrated with public transport operators to collect and transform real-time location data into GTFS-RT.
 
-1. Real-time data, such as raw GPS data from BTS trains, is collected.
-1. The platform transforms this data into a [GTFS-RT feed.](https://gtfs.org/realtime/reference/)
-1. [Google Transit](https://developers.google.com/transit) pulls the GTFS-RT feed.
-1. The real-time information is displayed on [Google Maps](https://www.google.com/maps/about) as dynamic data, including current train locations and estimated arrival times.
+1. **Access to Real-Time GPS Data:** Public transport operators, like [bts.co.th,](https://bts.co.th) provide access to real-time GPS data from their vehicles.
+2. **Data Transformation:** The platform ingests this data and converts it into [GTFS-RT.](https://gtfs.org/realtime/reference/)
+3. **Publishing to Google Transit:** This GTFS-RT Feed can then be published to [Google Transit.](https://developers.google.com/transit) Once accepted, the real-time information will be displayed on Google Maps, showing current vehicle locations and estimated arrival times.
 
 ---
 
