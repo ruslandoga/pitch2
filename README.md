@@ -5,7 +5,7 @@ Part E : Business plan or activities in Thailand
 1. Startup Name  
 KindlyGTFS or KindlyGTFO, your choice
 2. Slogan (If any)  
-Passionate About Thailand, Driven by Transit
+Passionate About Thailand, Driven by Transit (Ruslan won't fill that field. Who says? Ruslan says.)
 3. Please choose the startup sectors/ targeted industries /startup stage most relevant to your activities  
 Startup Sectors: TravelTech, PropertyTech/ UrbanTech, GovTech/ EdTech  
 Targeted Industries: Transportation and Logistics industry, Digital Industry  
