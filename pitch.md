@@ -209,7 +209,7 @@ A potential Android app designed to collect real-time location data from buses w
 
 # Innovation: Accurate Timetables
 
-Our approach delivers precise, up-to-date public transport timetables in Thailand using the widely recognized GTFS Schedule standard.
+Our approach delivers precise, up-to-date public transport timetables using the widely recognized GTFS Schedule standard.
 
 Currently, Google Maps shows BTS train departures as ["every 6 minutes"](https://www.google.com/maps/place/Phloen+Chit/@13.7484202,100.5365788,16z/data=!4m8!3m7!1s0x30e29edcfb15ae2b:0xb3f399fbdb9ddf6c!6m1!1v2!8m2!3d13.743044!4d100.548974!16s%2Fm%2F05f879r?entry=ttu) or estimates them on iOS and Android, which can lead to inaccuracies. This indicates that the GTFS data provided is incomplete and could be significantly improved.
 
@@ -217,7 +217,11 @@ Currently, Google Maps shows BTS train departures as ["every 6 minutes"](https:/
 
 # Innovation: Real-Time Data
 
-Currently, Google Maps (and other popular map apps) does not display real-time train locations, nor does it provide updates on delays or schedule accuracy. Our approach integrates real-time data for buses and trains, filling this gap with accurate, live information. This ensures users have up-to-date details on vehicle locations and any schedule changes.
+Our approach collects real-time data from buses and trains and provides it as GTFS-RT.
+
+Currently, Google Maps does not display real-time BTS train locations or provide updates on delays and schedule accuracy. This indicates a lack of GTFS-RT data in Thailand.
+
+By implementing GTFS-RT, we aim to fill this gap, providing accurate, live information that enhances the user experience with up-to-date vehicle locations and schedule changes.
 
 ---
 
@@ -233,7 +237,7 @@ Currently, Google Maps (and other popular map apps) does not display real-time t
 
 # Impacted Industries
 
-Our project impacts two key industries, [Public Transport](#impacted-industry-public-transport) and [Tourism.](#impatced-industry-tourism)
+Our project impacts two key industries, [public transport](#impacted-industry-public-transport) and [tourism.](#impatced-industry-tourism)
 
 ---
 
