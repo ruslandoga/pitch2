@@ -2,9 +2,7 @@
 
 KindlyGTFS
 
-### 2. Slogan (If any)  
-
-Passionate About Thailand, Driven by Transit (Ruslan won't fill that field. Who says? Ruslan says.)
+### 2. Slogan (If any)
 
 ### 3. Please choose the startup sectors/ targeted industries /startup stage most relevant to your activities  
 
