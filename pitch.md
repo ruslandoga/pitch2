@@ -24,7 +24,7 @@ We plan to collaborate with Thai government agencies to integrate this system ac
 
 We want to transform Google Maps in Bangkok from [this ...](https://www.google.com/maps/place/Phloen+Chit/@13.7484202,100.5365788,16z/data=!4m8!3m7!1s0x30e29edcfb15ae2b:0xb3f399fbdb9ddf6c!6m1!1v2!8m2!3d13.743044!4d100.548974!16s%2Fm%2F05f879r?entry=ttu)
 
-![bg right:60% contain](./img/phloen-chit.png)
+![bg right:40% contain](./img/ios-phloen-chit-phrom-phong.png)
 
 ---
 
@@ -32,7 +32,7 @@ We want to transform Google Maps in Bangkok from [this ...](https://www.google.c
 
 ... to something more like [this!](https://www.google.com/maps/place/Shibuya+Station/@35.6580339,139.7016358,17z/data=!3m1!5s0x60188b57f546295f:0x486cece41a7b21b0!4m8!3m7!1s0x60188b563b00109f:0x337328def1e2ab26!6m1!1v2!8m2!3d35.6580339!4d139.7016358!16zL20vMDIya3dq?entry=ttu)
 
-![bg right:60% contain](./img/shibuya.png)
+![bg right:40% contain](./img/ios-shibuya-meguro-2.png)
 
 ---
 
@@ -148,13 +148,15 @@ We plan to start a company with the mission to enhance public transport informat
 
 # Mission
 
-To provide accurate and accessible public transport information in Thailand through integration with all popular map apps, making it easier for people to use and rely on public transportation.
+Our missing is to provide accurate and accessible public transport information in Thailand through integration with all popular map applications, making it easier for people to use and rely on public transportation.
 
 ---
 
 # Vision
 
-A future where all map applications provides passengers with accurate, real-time public transport information, including train locations, timetables, fares, and delay updates. This will ensure that the online information matches the real-world excellence of the BTS system!
+We envision a future where passengers are provided with accurate, real-time public transport information, including vehicle locations, timetables, fares, and delay updates.
+
+A future where the quality of the online information matches the real-world excellence of the BTS system!
 
 ---
 
