@@ -42,55 +42,79 @@ We want to transform Google Maps in Bangkok from [this ...](https://www.google.c
 
 # What is GTFS?
 
-The General Transit Feed Specification (GTFS) Schedule provides essential, static data for transit systems. This includes:
+General Transit Feed Specification (GTFS) is a standardized format for public transport schedules and associated geographic information. It allows public transport data to be easily used in applications like Google Maps. It includes:
 
-- **Routes and Stops:** Information on where to catch buses or trains.
-- **Schedules and Frequencies:** Clear timetables to help plan trips.
-- **Fares:** Upfront details on journey costs.
-- **Flex Routes:** Options for demand-responsive transportation.
-
----
-
-# What is GTFS-RT?
-
-GTFS Realtime offers live updates on public transit, ensuring riders are always informed with:
-
-- **Vehicle Locations:** Real-time tracking of buses and trains, so passengers know exactly where they are.
-- **Arrival Times:** Accurate predictions to prevent missed connections.
-- **Service Alerts:** Notifications about any service disruptions, allowing passengers to adjust their plans.
+- [**Routes and Stops:**](#routes-and-stops) Information on where to catch buses or trains.
+- [**Schedules and Frequencies:**](#schedules-and-frequencies) Clear timetables to help plan trips.
+- [**Fares:**](#fares) Upfront details on journey costs.
 
 ---
 
 <!-- class: invert -->
 <!-- backgroundColor: #191919-->
 
-# GTFS in Action
+# Routes and Stops
 
-The next few slides would show how GTFS data shows up on Google Maps in Tokyo.
+![bg right:42% contain](./img/ios-shibuya-departures-all.PNG)
 
----
-
-Static GTFS Schedule shows this
-
-![bg right:40% contain](./img/ios-shibuya-departures-all.png)
+Information on where to catch buses or trains.
 
 ---
 
-Then GTFS-RT matches the scheduled time with real train location and shows its position together with the estimated arrival time.
+# Schedules and Frequencies
 
-![bg right:40% contain](./img/ios-shibuya-real-time.png)
+![bg right:42% contain](./img/ios-shibuya-departures-detailed.PNG)
+
+Clear timetables to help plan trips.
 
 ---
+
+# Fares
+
+![bg right:42% contain](./img/ios-shibuya-meguro-route.PNG)
+
+Upfront details on journey costs.
+
+---
+
+<!-- class: default -->
+<!-- footer: "" -->
+<!-- backgroundColor: default -->
+
+# What is GTFS-RT?
+
+GTFS Realtime offers live updates on public transit, ensuring riders are always informed with:
+
+- [**Vehicle Locations:**](#vehicle-locations) Real-time tracking of buses and trains, so passengers know exactly where they are.
+- [**Arrival Times:**](#arrival-times) Accurate predictions to prevent missed connections.
+
+---
+
+<!-- class: invert -->
+<!-- backgroundColor: #191919-->
+
+# Vehicle Locations
+
+![bg right:42% contain](./img/ios-shibuya-real-time.PNG)
+
+GTFS-RT matches the scheduled time with current location and shows its position together with the estimated arrival time.
+
+---
+
+# Arrival Times
+
+![bg right:42% contain](./img/ios-shibuya-departures-detailed-past.PNG)
 
 If GTFS-RT reports that the train is running late Google Maps clearly shows that in the UI.
 
-![bg right:40% contain](./img/ios-shibuya-departures-detailed-past.png)
-
 ---
 
-If GTFS-RT reports that the train is running late, then Google Maps clearly shows that in the UI.
+<!-- class: default -->
+<!-- backgroundColor: default-->
 
-![bg right:40% contain](./img/ios-shibuya-meguro-route.png)
+# Google Maps in Bangkok
+
+Right now it good but can better.
 
 ---
 
