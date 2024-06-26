@@ -197,13 +197,13 @@ A platform integrated with public transport operators to collect and transform r
 
 # (Optional) Mobile App
 
-A potential Android app designed to collect real-time location data from buses that do not have built-in GPS.
+A potential Android app designed to collect real-time location data from buses without built-in GPS.
 
-1. Bus drivers install the Android app on their smartphones.
-1. The app is manually activated when the bus is in operation.
-1. The app collects real-time GPS data from the smartphone.
-1. The app sends the GPS data to [the real-time platform.](#gtfs-rt-data-collection-and-serving-platform)
-1. The real-time information is displayed on [Google Maps](https://www.google.com/maps/about) as dynamic data, including current bus locations and estimated arrival times.
+1. **Installation:** Bus drivers install our Android app on their smartphones.
+1. **Activation:** The app is manually activated when the bus is in operation.
+1. **Data Collection:** The app collects real-time GPS data from the smartphone.
+1. **Data Transmission:** The app sends the GPS data to [the real-time platform.](#gtfs-rt-data-collection-and-serving-platform)
+1. **Dynamic Display:** The real-time information is displayed on [Google Maps](https://www.google.com/maps/about) as dynamic data, including current bus locations and estimated arrival times.
 
 ---
 
