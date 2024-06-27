@@ -10,9 +10,9 @@ by Ruslan Doga and Rail Akhmetov
 
 # Executive Summary
 
-Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like [GTFS](https://gtfs.org) and [GTFS-RT,](https://gtfs.org/realtime) similar to those implemented in Japan, Taiwan, and Singapore. Initially focusing on the BTS and MRT systems, we aim to extend these improvements to the entire Thai public transport network.
+Our objective is to enhance the availability and accuracy of public transport information in Thailand by adopting modern standards like [GTFS](https://gtfs.org) and [GTFS-RT,](https://gtfs.org/realtime) as successfully implemented in Japan, Taiwan, and Singapore. Initially focusing on the BTS and MRT systems, we aim to extend these improvements to the entire Thai public transport network.
 
-We plan to collaborate with Thai government agencies to integrate this system across all widely-used mapping applications, including Google Maps. This integration will not only improve the convenience and efficiency of travel for tourists and residents alike but also reinforce Thailand's position as a leader in tourism and urban planning.
+We plan to collaborate with Thai government agencies to integrate this system with Google Maps. This integration will not only improve the convenience and efficiency of travel for tourists and residents alike but also reinforce Thailand's position as a leader in tourism and urban planning.
 
 ---
 
@@ -114,7 +114,7 @@ If the vehicle is late, GTFS-RT reports the delay. Google Maps clearly shows thi
 
 # Google Maps in Bangkok
 
-Google Maps in Bangkok are useful but have room for improvement. For example, the BTS has some GTFS data like station locations. However, timetables are not yet included. Additionally, GTFS-RT data appears to be largely missing.
+Google Maps in Bangkok are useful but have room for improvement. For example, BTS Skytrain has some GTFS data like station locations and fares. However, timetables are not yet included. Additionally, GTFS-RT data appears to be largely missing.
 
 ---
 
@@ -133,7 +133,7 @@ Google Maps on iOS and Android tries to estimate the timetable from [rules](http
 
 ![bg right:40% contain](./img/ios-phloen-chit-fake-real-time.PNG)
 
-Current train location is interpolated based on time. A quick way to identify it is to notice that the green "On Time" label is replaced with a gray "Scheduled".
+Current train location is interpolated based on time. A quick way to identify it is to notice that the green "On Time" label is replaced with a gray "Scheduled" label.
 
 ---
 
@@ -148,15 +148,13 @@ We plan to start a company with the mission to enhance public transport informat
 
 # Mission
 
-Our missing is to provide accurate and accessible public transport information in Thailand through integration with all popular map applications, making it easier for people to use and rely on public transportation.
+Our mission is to provide accurate and accessible public transport information in Thailand, making it easier for people to use and rely on public transportation.
 
 ---
 
 # Vision
 
-We envision a future where passengers are provided with accurate, real-time public transport information, including vehicle locations, timetables, fares, and delay updates.
-
-A future where the quality of the online information matches the real-world excellence of the BTS system!
+We envision a future where passengers have accurate, real-time public transport information, including vehicle locations, timetables, fares, and delays, with the quality of online information matching the real-world excellence of the BTS Skytrain system!
 
 ---
 
@@ -251,7 +249,6 @@ Our project impacts two key industries, [public transport](#impacted-industry-pu
 # Impatced Industry: Tourism
 
 - **Enhanced Experience:** Tourists can easily navigate the public transport system with accurate, real-time information, making their travel experience smoother and more enjoyable.
-- **Increased Accessibility:** Better public transport information makes tourist attractions more accessible, encouraging more exploration and boosting local businesses.
 - **Positive Perception:** Reliable transport information improves the overall perception of Thailand as a modern, tourist-friendly destination.
 
 ---
@@ -320,7 +317,7 @@ We will initiate our project with a free pilot program, focusing on delivering m
 
 We chose Thailand because it is a leading tourist destination and robust public transport information is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions.
 
-Our admiration for Bangkok's BTS system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
+Our admiration for Bangkok's BTS Skytrain system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
 
 ---
 

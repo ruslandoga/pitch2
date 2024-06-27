@@ -34,7 +34,7 @@ To provide accurate and accessible public transport information in Thailand thro
 
 ### 8. Vision: Description of your organization’s vision
 
-We envision a future where passengers are provided with accurate, real-time public transport information, including vehicle locations, timetables, fares, and delay updates, a future where the quality of the online information matches the real-world excellence of the BTS system!
+We envision a future where passengers are provided with accurate, real-time public transport information, including vehicle locations, timetables, fares, and delay updates, a future where the quality of the online information matches the real-world excellence of the BTS SKytrain system!
 
 ### 9. Target market: Description of your target customers or clients
 
@@ -63,7 +63,7 @@ self-funded
 
 ### 14. Why did you choose Thailand as your destination? Please explain
 
-We chose Thailand because it is a leading tourist destination and robust public transport information is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions. Our admiration for Bangkok's BTS system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
+We chose Thailand because it is a leading tourist destination and robust public transport information is essential for visitors unfamiliar with the area. The rapid growth of Thailand, especially Bangkok, highlights the increasing demand for efficient transit solutions. Our admiration for Bangkok's BTS Skytrain system and our personal fondness for the country motivate us to enhance its digital transport infrastructure, improving the experience for tourists and residents.
 
 ### 15. Please explain how your business would benefit Thailand? Please explain
 
