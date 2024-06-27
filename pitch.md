@@ -191,7 +191,7 @@ For example, we would need access to real-time location data from BTS and MRT tr
 
 # GTFS Data Management Platform
 
-A simple and user-friendly platform tailored for Thai transit agencies to develop and maintain accurate public transport information as GTFS.
+A simple and user-friendly platform tailored for Thai transit agencies to source, clean, validate, and maintain accurate public transport data as GTFS.
 
 1. **Data Entry and Updates:** Government officials use our website to enter or update their transport information with ease.
 2. **Data Conversion:** The platform converts this data into a [GTFS Schedule.](https://gtfs.org/schedule/reference/)
