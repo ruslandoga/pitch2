@@ -114,7 +114,9 @@ If the vehicle is late, GTFS-RT reports the delay. Google Maps clearly shows thi
 
 # Google Maps in Bangkok
 
-Google Maps in Bangkok are useful but have room for improvement. For example, BTS Skytrain has some GTFS data like station locations and fares. However, timetables are not yet included. Additionally, GTFS-RT data appears to be largely missing.
+Google Maps in Bangkok are useful but have room for improvement.
+
+For example, BTS Skytrain has some GTFS data like station locations and fares. However, timetables are not yet included. Additionally, GTFS-RT data appears to be largely missing.
 
 ---
 
@@ -170,7 +172,7 @@ We envision a future where passengers have accurate, real-time public transport 
 
 # Collaboration and Support
 
-For complete success, collaboration is essential.
+_For complete success, we need YOU!_
 
 We plan to work closely with Bangkok Mass Transit System (BTS), Mass Rapid Transit Authority of Thailand (MRT), and the Ministry of Transport to integrate our system with their existing infrastructure, ensuring accurate and up-to-date public transport information.
 
