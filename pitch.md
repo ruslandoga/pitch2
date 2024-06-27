@@ -265,7 +265,7 @@ By implementing GTFS-RT, we aim to fill this gap, providing accurate, live infor
 
 # Impacted Industries
 
-This project impacts [the public transport](#impacted-industry-public-transport) and [tourism](#impatced-industry-tourism) industries.
+This project impacts [the public transport](#impacted-industry-public-transport) and [tourism](#impacted-industry-tourism) industries.
 
 ---
 
@@ -276,7 +276,7 @@ This project impacts [the public transport](#impacted-industry-public-transport)
 
 ---
 
-# Impatced Industry: Tourism
+# Impacted Industry: Tourism
 
 - **Enhanced Experience:** Tourists can easily navigate the public transport system with accurate, real-time information, making their travel experience smoother and more enjoyable.
 - **Positive Perception:** Reliable transport information improves the overall perception of Thailand as a modern, tourist-friendly destination.
