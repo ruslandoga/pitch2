@@ -172,9 +172,9 @@ We envision a future where passengers have accurate, real-time public transport 
 
 For complete success, collaboration is essential.
 
-We plan to work closely with Thai government agencies and public transport operators to integrate our system with their existing infrastructure, ensuring accurate and up-to-date public transport information.
+We plan to work closely with Bangkok Mass Transit System (BTS), Mass Rapid Transit Authority of Thailand (MRT), and the Ministry of Transport to integrate our system with their existing infrastructure, ensuring accurate and up-to-date public transport information.
 
-For example, we need access to real-time location data from BTS and can adapt to any format or method provided. Additionally, we require formal authorization from the Department of Land Transport when applying for the Google Transit program, confirming that we are acting on their behalf.
+For example, we would need access to real-time location data from BTS and MRT trains and we would require formal authorization from the Department of Land Transport when applying for the Google Transit program, confirming that we are acting on their behalf.
 
 ---
 
