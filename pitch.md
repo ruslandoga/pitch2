@@ -114,7 +114,9 @@ If the vehicle is late, GTFS-RT reports the delay. Google Maps clearly shows thi
 
 # Google Maps in Bangkok
 
-Google Maps in Bangkok are useful but have room for improvement. For example, BTS Skytrain has some GTFS data like station locations and fares. However, timetables are not yet included. Additionally, GTFS-RT data appears to be largely missing.
+Google Maps in Bangkok are useful but have room for improvement.
+
+For example, BTS Skytrain has some GTFS data like station locations and fares. However, timetables are not yet included. Additionally, GTFS-RT data appears to be largely missing.
 
 ---
 
@@ -165,6 +167,22 @@ We envision a future where passengers have accurate, real-time public transport 
 
 ---
 
+<!-- class: invert -->
+<!-- backgroundColor: #191919-->
+
+# Collaboration and Support
+
+_For complete success, we need YOU!_
+
+We plan to work closely with Bangkok Mass Transit System (BTS), Mass Rapid Transit Authority of Thailand (MRT), and the Ministry of Transport to integrate our system with their existing infrastructure, ensuring accurate and up-to-date public transport information.
+
+For example, we would need access to real-time location data from BTS and MRT trains and we would require formal authorization from the Department of Land Transport when applying for the Google Transit program, confirming that we are acting on their behalf.
+
+---
+
+<!-- class: default -->
+<!-- backgroundColor: default -->
+
 # Products
 
 - [GTFS Data Management Platform](#gtfs-data-management-platform)
@@ -175,7 +193,7 @@ We envision a future where passengers have accurate, real-time public transport 
 
 # GTFS Data Management Platform
 
-A simple and user-friendly platform tailored for Thai transit agencies to develop and maintain accurate public transport information as GTFS.
+A simple and user-friendly platform tailored for Thai transit agencies to source, clean, validate, and maintain accurate public transport data as GTFS.
 
 1. **Data Entry and Updates:** Government officials use our website to enter or update their transport information with ease.
 2. **Data Conversion:** The platform converts this data into a [GTFS Schedule.](https://gtfs.org/schedule/reference/)
@@ -204,6 +222,20 @@ A potential Android app designed to collect real-time location data from buses w
 1. **Dynamic Display:** The real-time information is displayed on [Google Maps](https://www.google.com/maps/about) as dynamic data, including current bus locations and estimated arrival times.
 
 ---
+
+<!-- class: invert -->
+<!-- backgroundColor: #191919-->
+
+# Why Focus on Google Maps?
+
+- **Widespread Use:** Google Maps is extensively used by both locals and tourists, ensuring broad access to public transport information.
+
+- **High Return for Low Effort:** Google Maps already has the infrastructure for displaying transit data. We just need to provide the data, making it a highly efficient solution.
+
+---
+
+<!-- class: default -->
+<!-- backgroundColor: default -->
 
 # Innovation: Accurate Timetables
 
@@ -235,7 +267,7 @@ By implementing GTFS-RT, we aim to fill this gap, providing accurate, live infor
 
 # Impacted Industries
 
-Our project impacts two key industries, [public transport](#impacted-industry-public-transport) and [tourism.](#impatced-industry-tourism)
+This project impacts [the public transport](#impacted-industry-public-transport) and [tourism](#impacted-industry-tourism) industries.
 
 ---
 
@@ -246,7 +278,7 @@ Our project impacts two key industries, [public transport](#impacted-industry-pu
 
 ---
 
-# Impatced Industry: Tourism
+# Impacted Industry: Tourism
 
 - **Enhanced Experience:** Tourists can easily navigate the public transport system with accurate, real-time information, making their travel experience smoother and more enjoyable.
 - **Positive Perception:** Reliable transport information improves the overall perception of Thailand as a modern, tourist-friendly destination.
@@ -323,6 +355,8 @@ Our admiration for Bangkok's BTS Skytrain system and our personal fondness for t
 
 # Thailand’s Benefit
 
-- **Citizen Benefits:** Enhanced public transport reliability and information will lead to better travel decisions, increased usage, and potentially reduced road congestion and improved air quality.
-- **Tourism Boost:** Accurate, real-time transit information simplifies navigation for tourists, enriching their experience and bolstering Thailand's image as a modern destination.
-- **Government and Local Business Benefits:** Improved transport systems can aid the government in urban planning and traffic management, while local businesses benefit from increased accessibility and customer traffic, driving economic growth.
+- **Enhanced Accessibility:** Real-time information on Google Maps empowers users to plan trips more efficiently, reducing wait times and improving overall public transport usability.
+
+- **Increased Ridership:** Clear and reliable information can encourage more people to use public transport, potentially reducing traffic congestion and emissions.
+
+- **Positive Impact on Tourism:** Improved navigation tools for public transport benefit both residents and tourists, enhancing the overall visitor experience and bolstering Thailand's image as a modern destination.
